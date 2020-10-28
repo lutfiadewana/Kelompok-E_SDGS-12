@@ -11,4 +11,3 @@ Utut Ardiansah - 182410103057
 
 Proggress:
 Membuat README
-Upload Ulang Project
